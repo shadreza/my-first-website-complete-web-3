@@ -8,3 +8,12 @@ body {
     color: darkorange;
     font-size: 40px;
 }
+
+.shad__pic {
+    width: 30%;
+    height: 30%;
+}
+
+.wrt {
+    color: orangered;
+}
