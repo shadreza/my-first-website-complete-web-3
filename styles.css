@@ -17,3 +17,13 @@ body {
 .wrt {
     color: orangered;
 }
+
+.p1 {
+    font-size: 25px;
+    color: blue;
+}
+
+.p2 {
+    font-size: 25px;
+    color: hotpink;
+}
